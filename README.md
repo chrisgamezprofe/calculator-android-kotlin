@@ -1,2 +1,2 @@
 # calculator-android-kotlin
-<img src="portada.png"/>
+<img src="plantilla2.png"/>
